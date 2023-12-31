@@ -41,8 +41,12 @@ copy(fname,newfile)
 ```
 
 ## OUTPUT:
+Read file:
+![Alt text](sam.png)
+Write file:
 
-![Alt text](1.png)
+![Alt text](res.png)
+
 
 
 
